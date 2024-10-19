@@ -25,5 +25,6 @@
 </div>
 <h1>hola</h1>
 <h2>lo</h2>
+<p>Hola como estas</p>
 <?php include_once ("./footer.php") ?>
 <script src="/form/form.js"></script>
