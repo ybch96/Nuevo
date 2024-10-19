@@ -23,5 +23,6 @@
     <img class="arrow-r" src="./img/right-arrow-svgrepo-com.svg" alt="">
 </div>
 </div>
+<h1>hola</h1>
 <?php include_once ("./footer.php") ?>
 <script src="/form/form.js"></script>
