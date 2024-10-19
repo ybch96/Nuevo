@@ -1,0 +1,3 @@
+<footer>
+    Contenido Footer
+</footer>
